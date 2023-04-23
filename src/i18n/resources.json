@@ -1,0 +1,20 @@
+{
+  "uz": {
+    "translation": {
+      "salom": "Salom react va i18next",
+      "keyin": "Endi bularni o'rganamiz"
+    }
+  },
+  "en": {
+    "translation": {
+      "salom": "Welcome to React and react-i18next",
+      "keyin": "This learning"
+    }
+  },
+  "ru": {
+      "translation": {
+        "salom": "Привет react и i18next",
+        "keyin": "Учится етот"
+      }
+    }
+}
